@@ -5,7 +5,7 @@ title: "Inspired by PMA, Santa Modernizes His Workshop"
 
 rating: "0"
 
-permalink: /modern-santa-workshop
+permalink: /modern-santa-workshop/
 
 url: /2018-18-12-test-training-post.md
 
@@ -13,7 +13,7 @@ description: Santa Claus unveiled a new, modern approach to Christmas.
 
 excerpt: Santa Claus unveiled a new, modern approach to Christmas. 
 
-image: "/img/blog/Modern-Santa.png
+image: "/img/blog/Modern-Santa.png"
 
 authors:
 - Performance.gov Team
