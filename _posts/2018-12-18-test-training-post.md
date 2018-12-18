@@ -7,7 +7,7 @@ rating: "0"
 
 permalink: /modern-santa-workshop/
 
-url: /2018-18-12-test-training-post.md
+url: /2018-12-18-test-training-post.md
 
 description: Santa Claus unveiled a new, modern approach to Christmas. 
 
