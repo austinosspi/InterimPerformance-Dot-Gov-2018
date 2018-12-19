@@ -20,7 +20,7 @@ authors:
 
 tags:
 - PMA
-- sucess story
+- success story
 
 ---
 Santa Claus unveiled a new, modern approach to Christmas. Key improvements to the North Pole infrastructure include:
